@@ -1,0 +1,5 @@
+| Title                                                                                               | Org                     | Thread                                                                    | Date    |
+| --------------------------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------------------------- | ------- |
+| [Textbooks are all you need](https://arxiv.org/abs/2306.11644)                                      | Microsoft Research      | [0xtotem](https://twitter.com/0xTotem/status/1671508966377943042)         | 06-2023 |
+| [RepoFusion: Training Code Models to Understand Your Repository](https://arxiv.org/abs//2306.10998) | ServiceNow Research     |                                                                           | 06-2023 |
+| [Do you still need a manual smart contract audit?](https://arxiv.org/pdf/2306.12338.pdf)            | Imperial College London | [HatforceSec](https://twitter.com/HatforceSec/status/1671758690808913922) | 06-2023 |
